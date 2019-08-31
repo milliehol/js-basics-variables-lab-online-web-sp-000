@@ -7,7 +7,7 @@ const babel = require('babel-core');
 
 const js = fs.readFileSync(path.resolve(__dirname, '..', 'index.js'), 'utf-8')
 
-
+let companyName = "Scuber";
 
 
 
